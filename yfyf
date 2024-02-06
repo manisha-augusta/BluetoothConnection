@@ -1,0 +1,15 @@
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87e0-39ce-491b-a871-5b9a209eedc8: 194,1.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87e1-39ce-491b-a871-5b9a209eedc8: 144,1.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87fa-39ce-491b-a871-5b9a209eedc8: 160,15,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87fb-39ce-491b-a871-5b9a209eedc8: 88,27,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f0-39ce-491b-a871-5b9a209eedc8: 184,11,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f1-39ce-491b-a871-5b9a209eedc8: 64,31,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87fc-39ce-491b-a871-5b9a209eedc8: 240,8,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87fd-39ce-491b-a871-5b9a209eedc8: 81,11,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f2-39ce-491b-a871-5b9a209eedc8: 1,11,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f3-39ce-491b-a871-5b9a209eedc8: 101,11,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87fe-39ce-491b-a871-5b9a209eedc8: 112,23,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87ff-39ce-491b-a871-5b9a209eedc8: 176,29,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f4-39ce-491b-a871-5b9a209eedc8: 24,21,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic 626b8803-39ce-491b-a871-5b9a209eedc8 626b87f5-39ce-491b-a871-5b9a209eedc8: 152,33,0,0.
+DEBUG  [connectPeripheral][5d3abac2-e192-3f79-d9e1-a98d6b62bf3d] Value from characteristic b2db29d4-64e8-11e8-adc0-fa7ae01bbebc b2db29d5-64e8-11e8-adc0-fa7ae01bbebc: 118,49,46,51,46,48,48.
